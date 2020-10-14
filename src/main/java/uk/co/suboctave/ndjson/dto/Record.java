@@ -1,4 +1,4 @@
-package net.uk.suboctave.ndjson.dto;
+package uk.co.suboctave.ndjson.dto;
 
 public class Record {
     public String name;
